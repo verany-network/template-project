@@ -2,16 +2,16 @@ Verany *Repository Template*
 =============
 
 Willkommen zur *Projektname*-Einrichtung,
-hier lernt ihr wie ihr *Projektname,* in euer Projekt einbezieht und wir ihr dieses anschließend einbezieht.
+hier lernt ihr wie ihr das *Projektname* in euer Projekt einbezieht und wie ihr dieses anschließend baut.
 
-Die *Projektname* einbeziehen
+Das *Projektname* einbeziehen
 ----------------------
 
-Mit den folgenden Schritten wird es euch ermöglicht unser *Projektname* in euer Projekt einzubeziehen. Gegeben sein muss natürlich das allgemeine Verständnis zur *objektorientierten Entwicklung in Java* mit der aktuellsten *IntelliJ* Version.
+Gegeben sein muss natürlich das allgemeine Verständnis zur *Entwicklung in Java 16* mit der aktuellsten *IntelliJ* Version.
 
 ### Installation
 
-Installiere den aktuellsten Stand der *Projektname* mithilfe unserer **[GitHub Releases](https://github.com/verany-network/PROJECT/releases)**. Klicke auf dieser Seite einfach auf den farblich hervorgehobenen Button "Download". Die weiteren Schritte werden dir von hier an von GitHub selbst verständlich näher gebracht.
+Installiere den aktuellsten Stand des *Projektname* mithilfe unserer **[GitHub Releases](https://github.com/verany-network/PROJECT/releases)**. Klicke auf dieser Seite einfach auf den farblich hervorgehobenen Button "Download". Die weiteren Schritte werden dir von hier an von GitHub selbst verständlich näher gebracht.
 
 
 Lizensierung
